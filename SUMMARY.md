@@ -5,8 +5,6 @@
 ## Introduction
 
 * [Requirements](introduction/requirements.md)
-* [How it works?](introduction/installation.md)
-* [Quick start](introduction/quick-start.md)
 * [Compatible theme](introduction/compatible-theme.md)
 
 ## Technical guides
