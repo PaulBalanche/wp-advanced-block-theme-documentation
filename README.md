@@ -1,19 +1,9 @@
 # Overview
 
-### Front-end part
+**WP Advanced Block Theme** is a **Wordpress plugin** offering its own Gutenberg Blocks to create clean and flexible layouts based on your **own HTML** code.
 
-Components developed by front-end developer have to be placed inside the theme, under 2 directory level: by default **views/components/**.\
-Each component need to have 2 files: **viewspec.json** and _**component\_name**_**.twig**
 
-#### [> Find more information about front-end part](broken-reference)
 
-### **Back-end part**
+Layout blocks :&#x20;
 
-Use WP-CLI command to generate blocks:
-
-`wp wpe-blocks generate_component_blocks`
-
-This will generate **blocks/custom/** directory with all components.\
-You can add an **override.json** file in order to add or replace some component attributes/configurations.
-
-#### [> Theme configuration](broken-reference)
+Component blocks
