@@ -1,8 +1,8 @@
-# Compatible theme
+---
+description: WP Advanced Block Theme needs a compatible theme
+---
 
-{% hint style="warning" %}
-**WP Advanced Block Theme** needs a compatible theme.
-{% endhint %}
+# Compatible theme
 
 ## Theme specification file
 
@@ -12,7 +12,7 @@ Your theme has to have a **JSON specification file** which describes some behavi
 **Default location:** themes/active\_theme/theme\_spec.json
 {% endhint %}
 
-##
+
 
 ## Front-end code
 
@@ -22,7 +22,7 @@ Your theme has to have a specific **front-end directory**.
 **Default location:** themes/active\_theme/front-end/
 {% endhint %}
 
-## ****
+****
 
 ## **Frontspec**
 
@@ -32,14 +32,20 @@ The front-end code inside your theme has to have its **frontpec file**, which wo
 **Default location:** themes/active\_theme/front-end/src/views/
 {% endhint %}
 
-##
+
 
 ## Front-end view
 
 "WP Advanced Block Theme" plugin uses **Twig Template Engine** to render content.\
-The front-end code inside your theme has to support Twig, and has to contain a sub-directory with views (.twig files).
+The front-end code inside your theme has to support Twig, and has to contain a sub-directory with views.\
+Each view is a sub-directory with:
 
-_**Default location:** themes/active\_theme/front-end/src/views/_
+* .twig file
+* viewspec JSON file
+
+{% hint style="info" %}
+**Default location:** themes/active\_theme/front-end/src/views/
+{% endhint %}
 
 __
 

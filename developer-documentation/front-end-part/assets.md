@@ -1,7 +1,5 @@
 # Assets
 
-
-
 ```json
 "assets": {
     "css": {

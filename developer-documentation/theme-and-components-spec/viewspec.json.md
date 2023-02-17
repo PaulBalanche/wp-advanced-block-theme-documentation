@@ -1,7 +1,5 @@
 # viewspec.json
 
-
-
 ```json
 {
   "id": "my-first-component",  
@@ -142,8 +140,6 @@
   }
 } 
 ```
-
-
 
 ## props
 
