@@ -10,6 +10,6 @@ By default, all components are available anywhere. It's possible to constraint a
 * in **override.json** file inside **blocks/custom/your-component/**, define\
   `"parent": [ "custom/wpe-container" ]`
 
-#### [> theme\_spec.json](theme\_spec.json.md)
+#### [> theme\_spec.json](../../technical-guides/theme\_spec.json.md)
 
 #### [> viewspec.json](viewspec.json.md)
