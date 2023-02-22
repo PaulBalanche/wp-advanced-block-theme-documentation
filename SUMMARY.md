@@ -11,9 +11,5 @@
 
 * [Theme specification file](developer-documentation/theme-and-components-spec/theme\_spec.json.md)
 * [Environment variables](developer-documentation/theme-configuration.md)
-* [Theme & Components spec](developer-documentation/theme-and-components-spec/README.md)
-  * [viewspec.json](developer-documentation/theme-and-components-spec/viewspec.json.md)
-* [Front-end part](developer-documentation/front-end-part/README.md)
-  * [Assets](developer-documentation/front-end-part/assets.md)
 * [Hooks](developer-documentation/hooks.md)
 * [WP-CLI](technical-guides/wp-cli.md)
