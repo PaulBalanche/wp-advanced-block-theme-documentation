@@ -1,4 +1,14 @@
-# theme\_spec.json
+---
+description: Json file that defines some theme behaviours.
+---
+
+# Theme specification file
+
+{% hint style="info" %}
+**Default location:** themes/active\_theme/theme\_spec.json
+{% endhint %}
+
+
 
 ### add\_ons
 

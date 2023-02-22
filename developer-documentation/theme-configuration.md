@@ -1,34 +1,35 @@
-# Theme configuration
-
-### Environment variables used by **WP Advanced Block Theme**
-
-```css
-THEME_FRONT_END_RELATIVE_PATH
-
-
-THEME_FRONTSPEC_JSON_FILENAME
-THEME_VIEW_ROOT_LOCATION
-COMPONENTS_RELATIVE_PATH
-CONTAINER_CLASS_NAME
-FRONT_ENV
-
-
-# Template location in current theme (default: views/)
-THEME_VIEW_ROOT_LOCATION='views/'
-
-
-# Component sub-location (default: components/)
-COMPONENTS_RELATIVE_PATH='components/'
-
-# Section container class name (default: container)
-CONTAINER_CLASS_NAME='container
-
-# Used for scripts enqueue. If doesn't exists, WP_ENV used instead.
-FRONT_ENV='dev'
-```
+# Environment variables
 
 {% hint style="danger" %}
 Don't forget to add them in **config/application.php**.
 {% endhint %}
 
-#### [> Theme & Components spec](theme-and-components-spec/)
+```php
+THEME_FRONT_END_RELATIVE_PATH
+# Default value: front-end
+```
+
+```php
+THEME_FRONTSPEC_JSON_FILENAME
+# Default value: frontspec.json
+```
+
+```php
+THEME_VIEW_ROOT_LOCATION
+# Default value: src/views/
+```
+
+```php
+COMPONENTS_RELATIVE_PATH
+# Default value: components/
+```
+
+```php
+CONTAINER_CLASS_NAME
+# Default value: container
+```
+
+```php
+FRONT_ENV
+# Default value: production
+```

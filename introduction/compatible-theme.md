@@ -6,11 +6,13 @@ description: WP Advanced Block Theme needs a compatible theme
 
 ## Theme specification file
 
-Your theme has to have a **JSON specification file** which describes some behaviors used by "WP Advanced Block Theme" plugin.
+Your theme has to have a **JSON specification file** which describes some behaviours used by "WP Advanced Block Theme" plugin.
 
 {% hint style="info" %}
 **Default location:** themes/active\_theme/theme\_spec.json
 {% endhint %}
+
+[View available properties](../developer-documentation/theme-and-components-spec/theme\_spec.json.md)
 
 
 
