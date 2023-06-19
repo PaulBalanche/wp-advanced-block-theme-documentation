@@ -108,65 +108,6 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit tempor gravida, fringilla
 
 ###
 
-### gridConfig
-
-Lorem ipsum dolor sit amet consectetur adipiscing elit tempor gravida, fringilla hac sapien integer vivamus fermentum posuere.
-
-```json
-"gridConfig": {
-    "variations": [
-      {
-        "name": "column-2",
-        "title": "2 column",
-        "icon": "column1",
-        "attributes": {
-          "gridCountColumns": 2
-        },
-        "innerBlocks": [
-          {
-            "name": "custom/wpe-column",
-            "attributes": {
-              "layout": {
-                "desktop": {
-                  "width": 1
-                }
-              }
-            }
-          },
-          {
-            "name": "custom/wpe-column",
-            "attributes": {
-              "layout": {
-                "mobile": {
-                  "columnStart": 1,
-                  "width": 1,
-                  "rowStart": 2,
-                  "height": 1
-                },
-                "tablet": {
-                  "columnStart": 2,
-                  "width": 1,
-                  "rowStart": 1,
-                  "height": 1
-                },
-                "desktop": {
-                  "columnStart": 2,
-                  "width": 1,
-                  "rowStart": 1,
-                  "height": 1
-                }
-              }
-            }
-          }
-        ]
-      },
-      ...
-    ]
-}
-```
-
-###
-
 ### i18n
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit tempor gravida, fringilla hac sapien integer vivamus fermentum posuere.

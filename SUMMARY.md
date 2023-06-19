@@ -9,7 +9,7 @@
 
 ## Technical guides
 
-* [Theme specification file](developer-documentation/theme-and-components-spec/theme\_spec.json.md)
-* [Environment variables](developer-documentation/theme-configuration.md)
-* [Hooks](developer-documentation/hooks.md)
+* [Theme specification file](technical-guides/theme_spec.md)
+* [Environment variables](technical-guides/theme-configuration.md)
+* [Hooks](technical-guides/hooks.md)
 * [WP-CLI](technical-guides/wp-cli.md)
