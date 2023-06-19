@@ -197,3 +197,14 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit tempor gravida, fringilla
 ```json
 "text_domain": "wpe-basic-boilerplate-theme"
 ```
+
+###
+
+### Editor configuration
+
+```json
+ "editor": {
+    "style": "dark",
+    "backgroundColor": "#303335"
+ }
+```
