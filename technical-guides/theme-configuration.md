@@ -7,4 +7,5 @@ define('THEME_VIEW_ROOT_LOCATION', 'src/views/');
 define('COMPONENTS_RELATIVE_PATH', 'components/');
 define('CONTAINER_CLASS_NAME', 'container');
 define('FRONT_ENV', 'production');
+define('INCLUDE_WP_HEADER', true);
 ```
